@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+    <file>images/qt.png</file>
+    <file>images/burn.png</file>
+    <file>images/burning.png</file>
+    <file>images/burning1.png</file>
+    <file>images/ok.png</file>
+    <file>images/fail.png</file>
+ </qresource>
+ </RCC>
